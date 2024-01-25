@@ -1,2 +1,2 @@
 # WesteindeWilson2024
-Code used in data analysis for Westeinde et al 2024
+Model & data analysis code for Westeinde et al 2024
